@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: howToPlayTable_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 273753715a2228e49a74cfa348262eed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28616404992
+    m_Localized: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119045599232
+    m_Localized: NASIL OYNANIR?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168399310848
+    m_Localized: NUMBERLE'yi 5 denemede bulun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2726912831488
+    m_Localized: "Her tahmin 5 basamakl\u0131 bir say\u0131 olmal\u0131d\u0131r.
+      G\xF6ndermek i\xE7in enter'a bas\u0131n\u0131z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7526765277184
+    m_Localized: "Her tahminden sonra kutular\u0131n rengi tahmininizin yak\u0131nl\u0131\u011F\u0131na
+      g\xF6re de\u011Fi\u015Fecektir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8527157112832
+    m_Localized: "\xD6rnekler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13886605209600
+    m_Localized: "7 rakam\u0131 say\u0131da var ve do\u011Fru yerde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15757629698048
+    m_Localized: "6 rakam\u0131 say\u0131da var ama yanl\u0131\u015F yerde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16254029770752
+    m_Localized: "9 rakam\u0131 say\u0131da yok."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

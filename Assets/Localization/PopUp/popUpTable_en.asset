@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: popUpTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dd790d0dceb207d4f929c7b448ecefdf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 118374510592
+    m_Localized: Not Enough Numbers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398122004480
+    m_Localized: Genius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 603202498560
+    m_Localized: Magnificent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776301424640
+    m_Localized: Impressive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 921701167104
+    m_Localized: Not Bad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083118956544
+    m_Localized: Buzzerbeater
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

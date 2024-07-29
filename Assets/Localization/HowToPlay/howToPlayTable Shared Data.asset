@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: howToPlayTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: howToPlayTable
+  m_TableCollectionNameGuidString: 273753715a2228e49a74cfa348262eed
+  m_Entries:
+  - m_Id: 28616404992
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119045599232
+    m_Key: Header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168399310848
+    m_Key: label1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2726912831488
+    m_Key: label2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7526765277184
+    m_Key: label3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8527157112832
+    m_Key: examples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13886605209600
+    m_Key: greenText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15757629698048
+    m_Key: orangeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16254029770752
+    m_Key: grayText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2765396706330411065
+  references:
+    version: 2
+    RefIds:
+    - rid: 2765396706330411065
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1661968481609
