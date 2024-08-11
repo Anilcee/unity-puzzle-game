@@ -1,6 +1,6 @@
 # Numberle
 
-**Numberle** Unity ile geliştirilmiş bir sayı tahmin oyunudur.
+**Numberle** Unity ile geliştirilmiş bir sayı tahmin oyunudur. Oyunu indirmek isterseniz bu linkten indirebilirsiniz https://play.google.com/store/apps/details?id=com.LinaGames.Numberle&hl=tr
 
 ## Oynanış
 
